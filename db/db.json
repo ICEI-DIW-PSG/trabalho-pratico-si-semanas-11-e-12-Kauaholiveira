@@ -1,18 +1,31 @@
 {
-  "usuarios": [
+  "fossils": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "name": "Trilobita exemplar A",
+      "species": "Trilobita",
+      "location": "Camadas de Santana, MG",
+      "age_million_years": 450,
+      "description": "Fóssil de trilobita bem preservado com detalhes dos olhos compostos.",
+      "image": "img/trilobita.jpg"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "name": "Dinossauro ósseo B",
+      "species": "Theropoda sp.",
+      "location": "Formação Bauru, SP",
+      "age_million_years": 80,
+      "description": "Fragmento de fêmur com marcas de predação.",
+      "image": "img/dino_femur.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Folha fóssil C",
+      "species": "Planta Cretácea",
+      "location": "Lagoa do Jacaré, RS",
+      "age_million_years": 70,
+      "description": "Folha fossilizada com veias bem definidas",
+      "image": "img/folha.jpg"
     }
   ]
 }
