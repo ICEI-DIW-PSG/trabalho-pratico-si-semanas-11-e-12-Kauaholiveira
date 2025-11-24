@@ -1,31 +1,25 @@
 {
-  "fossils": [
+  "fosseis": [
     {
       "id": 1,
-      "name": "Trilobita exemplar A",
-      "species": "Trilobita",
-      "location": "Camadas de Santana, MG",
-      "age_million_years": 450,
-      "description": "Fóssil de trilobita bem preservado com detalhes dos olhos compostos.",
-      "image": "img/trilobita.jpg"
+      "nome": "Tyrannosaurus Rex",
+      "periodo": "Cretáceo",
+      "descricao": "Um dos maiores predadores terrestres já existentes.",
+      "imagem": "img/trex.jpg"
     },
     {
       "id": 2,
-      "name": "Dinossauro ósseo B",
-      "species": "Theropoda sp.",
-      "location": "Formação Bauru, SP",
-      "age_million_years": 80,
-      "description": "Fragmento de fêmur com marcas de predação.",
-      "image": "img/dino_femur.jpg"
+      "nome": "Triceratops",
+      "periodo": "Cretáceo",
+      "descricao": "Herbívoro de grande porte com três chifres no rosto.",
+      "imagem": "img/triceratops.jpg"
     },
     {
       "id": 3,
-      "name": "Folha fóssil C",
-      "species": "Planta Cretácea",
-      "location": "Lagoa do Jacaré, RS",
-      "age_million_years": 70,
-      "description": "Folha fossilizada com veias bem definidas",
-      "image": "img/folha.jpg"
+      "nome": "Pteranodon",
+      "periodo": "Cretáceo",
+      "descricao": "Reptil alado capaz de grandes planagens.",
+      "imagem": "img/pteranodon.jpg"
     }
   ]
 }
